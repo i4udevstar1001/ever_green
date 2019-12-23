@@ -1,15 +1,3 @@
-<div align="center">
-  <a href="https://evergreen.segment.com/">
-    <img src="https://raw.githubusercontent.com/segmentio/evergreen/master/evergreen-github-hero.png" alt="Evergreen, A Design System for the Web. Evergreen is a React UI Framework for building ambitious products on the web. Brought to you by Segment.">
-	<br>
-  <br>
-  <a href="https://circleci.com/gh/segmentio/evergreen/tree/master">
-    <img src="https://circleci.com/gh/segmentio/evergreen.svg?style=svg" alt="Build Status">
-  </a>
-	<br>
-  <br>
-</div>
-
 - **Works out of the box.** Evergreen contains a set of polished React components that work out of the box.
 
 - **Flexible & composable.** Evergreen components are built on top of a React UI Primitive for endless composability.
